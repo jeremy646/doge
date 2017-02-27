@@ -15,11 +15,11 @@ This repository contains and editeed version of **Dockerfile** of [Nginx](http:/
 
 ### Installation
 
-1. Install [Docker](https://www.docker.com/).
+1. Install [Docker](https://www.docker.com/). (for Debian/Ubuntu apt-get update; apt-get install docker.io)
 
-2. Download [automated build](https://registry.hub.docker.com/u/TOBECOMPLETED) from public [Docker Hub Registry](https://registry.hub.docker.com/): `docker pull TBD`
+2. Download [automated build](https://registry.hub.docker.com/u/TOBECOMPLETED) from public [Docker Hub Registry](https://registry.hub.docker.com/): `docker pull jeremy646/doge`
 
 ### Usage
 
-    docker run -d -p 80:80 TBD
+    docker run -d -p 80:80 jeremy/doge
 
