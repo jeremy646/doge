@@ -21,5 +21,5 @@ This repository contains and editeed version of **Dockerfile** of [Nginx](http:/
 
 ### Usage
 
-    docker run -d -p 80:80 jeremy/doge
+    docker run -d -p 80:80 jeremy646/doge
 
